@@ -25,8 +25,6 @@
 - Databases
 - Data Analytics
 
-📊 Interested in transforming raw data into meaningful decisions
-
 📫 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mahima-k-9408b7309/" target="_blank">
@@ -60,8 +58,18 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=jupyter" />
 <img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=gcp" />
+<img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+<img src="https://img.icons8.com/color/48/google-drive--v2.png" title="Google Drive"/>
+<img src="https://img.icons8.com/color/48/google-logo.png" title="Google"/>
+<img src="https://img.icons8.com/color/48/database.png" title="DBMS"/>
+<img src="https://cdn.simpleicons.org/claude/D97757" width="48" title="Claude AI"/>
+<img src="https://cdn.simpleicons.org/openai/412991" width="48" title="OpenAI Codex"/>
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="48" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
 </p>
+
 ### Git stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAHIMAK27&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAK27&theme=tokyonight"/>
