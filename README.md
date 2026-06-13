@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mahima K
 
 ### Exploring data, building intelligence, creating impact  🚀
-🌱 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
+Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
 
 
 ## 🔭 🚀 Featured Research Project
