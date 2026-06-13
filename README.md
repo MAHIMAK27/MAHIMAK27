@@ -62,8 +62,8 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://skillicons.dev/icons?i=pandas" />
 </p>
+###Git stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAHIMAK27&show_icons=true&theme=tokyonight"/>
-<img src="https://github-profile-trophy.vercel.app/?username=MAHIMAK27&theme=tokyonight&row=1&column=6"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAK27&theme=tokyonight"/>
 ⚡ Fun fact:
 I don't just solve problems—I enjoy finding patterns where others see noise and turning them into opportunities ✨
