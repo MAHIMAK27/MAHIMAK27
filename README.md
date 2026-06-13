@@ -28,10 +28,23 @@
 📊 Interested in transforming raw data into meaningful decisions
 
 📫 Connect with me:
-- LinkedIn: www.linkedin.com/in/mahima-k-9408b7309
-- X (Twitter): https://x.com/Mahimak157701
-- Instagram: @mahima_.k._gowda
-- Email: mahimakitty18@gmail.com
+<p align="left">
+<a href="https://www.linkedin.com/in/mahima-k-9408b7309/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://x.com/Mahimak157701" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+
+<a href="https://www.instagram.com/mahima_.k._gowda/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="mailto:mahimakitty18@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45" />
+</a>
+</p>
 
 ⚡ Fun fact:
 I don't just solve problems—I enjoy finding patterns where others see noise and turning them into opportunities ✨
