@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://skillicons.dev/icons?i=pandas" />
 </p>
-###Git stats
+### Git stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAHIMAK27&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAK27&theme=tokyonight"/>
 ⚡ Fun fact:
