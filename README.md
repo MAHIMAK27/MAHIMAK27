@@ -2,7 +2,8 @@
 
 ### Exploring data, building intelligence, creating impact  🚀
 
-🔭 Currently building projects in AI, Machine Learning, Data Analytics, and Geospatial Intelligence
+🔭 Currently working on Design and Analysis of an LLM-Enhanced Prediction System for Influenza-Like Illness <img width="1974" height="115" alt="image" src="https://github.com/user-attachments/assets/33fb24f2-1a5c-4317-bd11-bf9a1cb309c1" />
+ Geospatial datasets
 
 🌱 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
 
