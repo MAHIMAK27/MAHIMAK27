@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Mahima K
 
-Hi 👋, I'm Mahima K
-Solving today. Scaling tomorrow 📈
-🔭 I’m currently working on ILI-prediction system using geospatial data
+### Exploring data, building intelligence, creating impact  🚀
 
-🌱 I’m currently learning Data Analytics and Machine Learning
+🔭 Currently building projects in AI, Machine Learning, Data Analytics, and Geospatial Intelligence
 
-👯 I’m looking to collaborate on Fraud Detection and Prevention
+🌱 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
 
-💬 Ask me about AI, python, Databases
+👯 Collaborated on:
+- Curominds
+- Retail Pulse
+- Dementia Prediction & Analysis
+- NewHindsight
 
-📫 How to reach me: mahimakitty18@gmail.com | https://www.linkedin.com/in/mahima-k-9408b7309/
+🤝 Open to collaborating on:
+- AI & ML Applications
+- Predictive Analytics
+- Data-Driven Solutions
+- Intelligent Automation Projects
 
-⚡ Fun fact: I don’t write bugs 🐞… I create unexpected features 😁
+💬 Ask me about:
+- Artificial Intelligence
+- Machine Learning
+- Python
+- Databases
+- Data Analytics
 
+📊 Interested in transforming raw data into meaningful decisions
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/mahima-k-9408b7309
+- X (Twitter): https://x.com/Mahimak157701
+- Instagram: @mahima_.k._gowda
+- Email: mahimakitty18@gmail.com
+
+⚡ Fun fact:
+I don't just solve problems—I enjoy finding patterns where others see noise and turning them into opportunities ✨
+
+---
+### Current Focus
+📈 Learning today. Building tomorrow.
+Exploring AI, Machine Learning, Analytics, and real-world applications that create measurable impact.
