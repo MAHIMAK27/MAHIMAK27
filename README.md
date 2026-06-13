@@ -2,8 +2,13 @@
 
 ### Exploring data, building intelligence, creating impact  🚀
 
-🔭 Currently working on Design and Analysis of an LLM-Enhanced Prediction System for Influenza-Like Illness <img width="1974" height="115" color="red" alt="image" src="https://github.com/MAHIMAK27/ILI-Prediction" />
- Geospatial datasets
+🔭 ## 🚀 Featured Research Project
+
+### **Design and Analysis of an LLM-Enhanced Prediction System for Influenza-Like Illness (ILI)**
+
+> Leveraging **Large Language Models (LLMs)**, **Geospatial Datasets**, and **Predictive Analytics** to enhance disease surveillance, identify emerging trends, and improve influenza outbreak forecasting.
+
+🔗 **Repository:** https://github.com/MAHIMAK27/ILI-Prediction
 
 🌱 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
 
