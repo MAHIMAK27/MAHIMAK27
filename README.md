@@ -45,7 +45,7 @@
 <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" />
 </a>
 </p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAK27&theme=tokyonight"/>
 ⚡ Fun fact:
 I don't just solve problems—I enjoy finding patterns where others see noise and turning them into opportunities ✨
 
