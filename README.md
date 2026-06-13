@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Mahima K
 
 ### Exploring data, building intelligence, creating impact  🚀
+🌱 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
 
-🔭 ## 🚀 Featured Research Project
+
+## 🔭 🚀 Featured Research Project
 
 ### **Design and Analysis of an LLM-Enhanced Prediction System for Influenza-Like Illness (ILI)**
 
@@ -10,7 +12,7 @@
 
 🔗 **Repository:** https://github.com/MAHIMAK27/ILI-Prediction
 
-🌱 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
+
 
 👯 Collaborated on:
 - Curominds
