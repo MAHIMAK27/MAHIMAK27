@@ -60,6 +60,7 @@
 <img src="https://skillicons.dev/icons?i=django" />
 <img src="https://skillicons.dev/icons?i=flask" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
