@@ -77,6 +77,7 @@
 <img src="https://img.icons8.com/color/48/database.png" title="DBMS"/>
 <img src="https://cdn.simpleicons.org/claude/D97757" width="48" title="Claude AI"/>
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="48" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
 </p>
 
