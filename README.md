@@ -45,6 +45,25 @@
 <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" />
 </a>
 </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIMAK27&layout=compact&theme=tokyonight"/>
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=jupyter" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pandas" />
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MAHIMAK27&theme=tokyonight&row=1&column=6"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHIMAK27&theme=tokyonight"/>
 ⚡ Fun fact:
 I don't just solve problems—I enjoy finding patterns where others see noise and turning them into opportunities ✨
