@@ -3,6 +3,11 @@
 ### Exploring data, building intelligence, creating impact  🚀
 Learning Data Analytics, Machine Learning, and exploring the rapidly evolving world of AI
 
+🌐 Portfolio
+
+<p align="left"> <a href="https://mahima-portfolio1-4xm1.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-6f42c1?style=for-the-badge" /> </a> </p>
+
+🚀 Explore my projects, research, certifications, achievements, and technical journey in one place.
 
 ## 🔭 🚀 Featured Research Project
 
