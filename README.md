@@ -74,9 +74,7 @@ Learning Data Analytics, Machine Learning, and exploring the rapidly evolving wo
 <img src="https://skillicons.dev/icons?i=flask" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
@@ -85,8 +83,6 @@ Learning Data Analytics, Machine Learning, and exploring the rapidly evolving wo
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=gcp" />
 <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
-<img src="https://img.icons8.com/color/48/google-drive--v2.png" title="Google Drive"/>
-<img src="https://img.icons8.com/color/48/google-logo.png" title="Google"/>
 <img src="https://img.icons8.com/color/48/database.png" title="DBMS"/>
 <img src="https://cdn.simpleicons.org/claude/D97757" width="48" title="Claude AI"/>
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="48" title="Bootstrap"/>
